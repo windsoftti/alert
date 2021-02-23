@@ -1,0 +1,19 @@
+POST /api/prospectos-webhook HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  162
+Content-Type:    application/json
+Host:            admin-prospectos.localhost
+Postman-Token:   d443fa02-5a4c-4b65-8852-a9788ad7205e
+User-Agent:      PostmanRuntime/7.25.0
+
+{
+    "number": "FB-3182330665163333",
+    "message-in": "775 129 27 83",
+    "type": 1,
+    "application": 1,
+    "unique-id": 678992,
+    "project-id": "7436"
+}

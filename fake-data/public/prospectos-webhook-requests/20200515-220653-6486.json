@@ -1,0 +1,26 @@
+POST /api/prospectos-webhook HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  166
+Content-Type:    application/json
+Host:            admin-prospectos.localhost
+Postman-Token:   eb74d9b2-3d3f-4c5d-b897-fc785f2e1abe
+User-Agent:      PostmanRuntime/7.24.1
+
+{
+  "Array": [
+    1,
+    2,
+    3
+  ],
+  "Boolean": true,
+  "Null": null,
+  "Number": 123,
+  "Object": {
+    "a": "b",
+    "c": "d"
+  },
+  "String": "Hello Worlds"
+}

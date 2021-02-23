@@ -1,0 +1,28 @@
+POST /prospectos-webhook HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  165
+Content-Type:    application/json
+Cookie:          XSRF-TOKEN=eyJpdiI6IlJMTkVTZnRva1dFWmxuMWFmMXpTaWc9PSIsInZhbHVlIjoidUdCcitod3htdjd6N21jS0JGSGRZXC9ZSEk5YWM0TDVCVUQ0a0JGS2V0OXpCZ2w0djBtNE1TSFVzQzJcLzlRUHhIIiwibWFjIjoiYTIzYmZmZTllYTQ1OGRiNjRlNmY4ZjVmMThhMzU2NWQyYmU0ODA5MDgxNDAyOTI2MzI0MTUxZDBmZjE5YjFkMyJ9; laravel_session=eyJpdiI6IkRBSTJcL0xSOVhWRkpWSjlhRWtvaW9nPT0iLCJ2YWx1ZSI6IlZGQU9ickFZYzdhRmU5UldpQWtubTFSaTlYbXF6dWRwS0c2eDJrWWk3dU1IcGY0RDVnWUhIdExvVjVxb2dOUnMiLCJtYWMiOiI5ZTBjNjQ1MWExNWMyNWZhOTg4ODc1MzAzNGFkMmNkNTg4MzUyMTQ2ZGUxYTA3OGM1Y2E5MDc0MGZjZDM5YTllIn0%3D
+Host:            admin-prospectos.localhost
+Postman-Token:   1752132a-9bb8-42bc-b1e6-0c891de904e0
+User-Agent:      PostmanRuntime/7.24.1
+Cookie: XSRF-TOKEN=vHBc5EnCSUM9Dt8whIIDRov0dLCg6QcUK0I2HOfW; laravel_session=uEpCiAZrCFtpeBCWZWWatPeGhak8SjqZJ1hfW6Rp
+
+{
+  "Array": [
+    1,
+    2,
+    3
+  ],
+  "Boolean": true,
+  "Null": null,
+  "Number": 123,
+  "Object": {
+    "a": "b",
+    "c": "d"
+  },
+  "String": "Hello World"
+}

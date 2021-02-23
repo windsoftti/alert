@@ -1,0 +1,12 @@
+POST /api/prospectos-webhook HTTP/1.1
+Accept:          application/json
+Accept-Encoding: gzip, deflate, br
+Cache-Control:   no-cache
+Connection:      keep-alive
+Content-Length:  140
+Content-Type:    application/json
+Host:            admin-prospectos.localhost
+Postman-Token:   e4068ad9-8dda-4a89-bef9-0b09f467ab3c
+User-Agent:      PostmanRuntime/7.24.1
+
+{"number":"jjj55568ff9rffffdrrf2","message-in":"es Adalberto Vargas Moreno","type":1,"application":1,"unique-id":678991,"project-id":"7436"}

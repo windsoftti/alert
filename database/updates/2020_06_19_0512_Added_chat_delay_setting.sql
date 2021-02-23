@@ -1,0 +1,1 @@
+INSERT INTO `settings` (`key`, `display_name`, `value`, `type`, `order`, `group`) VALUES ('site.assign_chat_delay', 'Retraso en minutos para asignar chat de visitante', '10', 'text', '11', 'Site')

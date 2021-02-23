@@ -1,0 +1,7 @@
+*
+!.gitignore
+!pages
+!posts
+!prospectos-webhook-requests
+!settings
+!users
